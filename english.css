@@ -1,0 +1,12 @@
+.alphabet {
+    border-collapse: collapse;
+}
+
+.alphabet td {
+    border: 1px solid gray;
+    width: 140px;
+    height: 140px;
+    font-size: 100px;
+    text-align: center;
+    vertical-align: center;
+}
